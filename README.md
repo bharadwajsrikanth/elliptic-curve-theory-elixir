@@ -130,9 +130,6 @@ Ex: time elixir –erl ”+P 100000000” -S mix distributed.runner 100000000
 iex -S mix distributed.runner N k
 Ex: iex -S mix distributed.runner 100000000 20
 
-### 3.2 Output of 100000000 20
 
-The output of N = 100000000 k = 20 was calculated using 4 machines and saved in the file named
-outputmultiplemachines.txtin harkiratsrikanth directory.
 
 
