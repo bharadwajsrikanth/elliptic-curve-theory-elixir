@@ -1,0 +1,11 @@
+{application,dos_proj1,
+             [{applications,[kernel,stdlib,elixir,logger]},
+              {description,"dos_proj1"},
+              {modules,['Elixir.DosProj1','Elixir.Mix.Tasks.Boss',
+                        'Elixir.Mix.Tasks.Distributed.Boss',
+                        'Elixir.Mix.Tasks.Distributed.Runner',
+                        'Elixir.Mix.Tasks.PerfectSquareComputer',
+                        'Elixir.Mix.Tasks.RemoteBoss',
+                        'Elixir.Mix.Tasks.Runner']},
+              {registered,[]},
+              {vsn,"0.1.0"}]}.
