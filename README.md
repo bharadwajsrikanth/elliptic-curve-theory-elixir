@@ -1,4 +1,4 @@
-# elliptic-curve-theory-elixir
+# elliptic-curve-theory
 Finding perfect squares that are sums of consecutive squares.
 
 
